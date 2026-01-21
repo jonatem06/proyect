@@ -24,6 +24,9 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
+  <head>
+    {/* Aquí pega tu código de Google AdSense */}
+  </head>
       <body
         className={`${geistSans.variable} ${geistMono.variable} antialiased`}
       >
